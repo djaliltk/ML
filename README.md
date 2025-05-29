@@ -111,7 +111,13 @@ Le choix final du modèle dépendra des priorités du business et de l'impact de
 
 
 0-install requirements
+
 1-add ur dataset(creditecard)
+
 2-run ipynb
+
 3-run save models
+
 4-run app (upload creaditcard2023)
+
+
