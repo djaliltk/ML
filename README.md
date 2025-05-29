@@ -110,6 +110,11 @@ Le choix final du modèle dépendra des priorités du business et de l'impact de
 
 
 
+
+
+
+
+
 0-install requirements
 
 1-add ur dataset(creditecard)
