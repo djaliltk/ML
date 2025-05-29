@@ -103,3 +103,15 @@ Faut-il détecter un maximum de fraudes quitte à avoir plus de faux positifs ?
 Ou faut-il réduire les alertes inutiles mais risquer de laisser passer quelques fraudes ?
 
 Le choix final du modèle dépendra des priorités du business et de l'impact des erreurs sur l'expérience client.
+
+
+
+
+
+
+
+0-install requirements
+1-add ur dataset(creditecard)
+2-run ipynb
+3-run save models
+4-run app (upload creaditcard2023)
